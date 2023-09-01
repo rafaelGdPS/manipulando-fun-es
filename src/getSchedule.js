@@ -54,6 +54,6 @@ const getSchedule = (scheduleTarget) => {
   }
   return officeHour(scheduleTarget);
 };
-// console.log(getSchedule('lions'));
+// console.log(getSchedule('bata'));
 
 module.exports = getSchedule;
